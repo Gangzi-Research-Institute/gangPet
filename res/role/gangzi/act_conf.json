@@ -1,0 +1,62 @@
+{
+  "default": {
+    "images": "stand",
+    "act_num": 1
+  },
+  "up" : {
+    "images": "stand",
+    "act_num": 1
+  },
+  "down" : {
+    "images": "stand",
+    "act_num": 1
+  },
+  "left": {
+    "images": "stand",
+    "act_num": 1
+  },
+  "right": {
+    "images": "stand",
+    "act_num": 1
+  },
+  "fall_asleep": {
+    "images": "stand",
+    "act_num": 1,
+    "frame_refresh": 0.1
+  },
+  "sleep": {
+    "images": "stand",
+    "act_num": 5,
+    "frame_refresh": 0.5
+  },
+  "left_walk": {
+    "images": "stand",
+    "act_num": 5,
+    "need_move": true,
+    "direction": "left",
+    "frame_refresh": 0.2
+  },
+  "right_walk": {
+    "images": "stand",
+    "act_num": 5,
+    "need_move": true,
+    "direction": "right",
+    "frame_refresh": 0.2
+  },
+  "drag": {
+    "images": "stand",
+    "act_num": 1
+  },
+  "fall": {
+    "images": "stand",
+    "act_num": 1
+  },
+  "onfloor": {
+    "images": "stand",
+    "act_num": 1
+  },
+  "angry": {
+    "images": "stand",
+    "act_num": 1
+  }
+}
